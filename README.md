@@ -20,4 +20,4 @@ Use this file to look up the name of a recipe given its index.
 
 `nmfv1_4/`: a copy of the [NNMF MATLAB library](https://sites.google.com/site/nmftool/) by Yifeng Li. 
 
-This project 
+I carried out this project in Spring 2014 with Rob Sami, Aaron Schild, and Spencer Tank.
