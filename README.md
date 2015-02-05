@@ -4,7 +4,7 @@ This repository contains data and code for an application of non-negative matrix
 
 The project is described in my blog post [Decomposing the Human Taste Palate](http://www.jeremymcohen.net/posts/taste/).
 
-The contents in this repository are:
+The contents of this repository are:
 
 `data/favorites.csv`: a data set of 116K AllRecipes users and their collections of favorite recipes.
 Each line in this file takes the form "USER_INDEX,RECIPE_INDEX".
@@ -19,3 +19,5 @@ Use this file to look up the name of a recipe given its index.
 `analyze/print_tastes`, a Python script that prints out the top recipes in each factor ("taste"). 
 
 `nmfv1_4/`: a copy of the [NNMF MATLAB library](https://sites.google.com/site/nmftool/) by Yifeng Li. 
+
+This project 
